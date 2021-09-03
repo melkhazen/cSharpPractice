@@ -22,6 +22,9 @@ namespace Alice
                 String input = Console.ReadLine();
                 if (array.Contains(input.ToLower()))
                 {
+                    Console.WriteLine("The index of " + input + " is: " + paragraphe.IndexOf(input));
+                    String newParagraphe = paragraphe.Replace(input, "****");
+                    Console.WriteLine(newParagraphe);
                     return "True";
                 }
                 else
