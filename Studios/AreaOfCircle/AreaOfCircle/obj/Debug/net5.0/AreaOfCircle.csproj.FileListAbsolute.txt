@@ -1,0 +1,16 @@
+C:\Users\elkha\OneDrive\Desktop\csharp\Studios\AreaOfCircle\AreaOfCircle\bin\Debug\net5.0\AreaOfCircle.exe
+C:\Users\elkha\OneDrive\Desktop\csharp\Studios\AreaOfCircle\AreaOfCircle\bin\Debug\net5.0\AreaOfCircle.deps.json
+C:\Users\elkha\OneDrive\Desktop\csharp\Studios\AreaOfCircle\AreaOfCircle\bin\Debug\net5.0\AreaOfCircle.runtimeconfig.json
+C:\Users\elkha\OneDrive\Desktop\csharp\Studios\AreaOfCircle\AreaOfCircle\bin\Debug\net5.0\AreaOfCircle.runtimeconfig.dev.json
+C:\Users\elkha\OneDrive\Desktop\csharp\Studios\AreaOfCircle\AreaOfCircle\bin\Debug\net5.0\AreaOfCircle.dll
+C:\Users\elkha\OneDrive\Desktop\csharp\Studios\AreaOfCircle\AreaOfCircle\bin\Debug\net5.0\ref\AreaOfCircle.dll
+C:\Users\elkha\OneDrive\Desktop\csharp\Studios\AreaOfCircle\AreaOfCircle\bin\Debug\net5.0\AreaOfCircle.pdb
+C:\Users\elkha\OneDrive\Desktop\csharp\Studios\AreaOfCircle\AreaOfCircle\obj\Debug\net5.0\AreaOfCircle.csproj.AssemblyReference.cache
+C:\Users\elkha\OneDrive\Desktop\csharp\Studios\AreaOfCircle\AreaOfCircle\obj\Debug\net5.0\AreaOfCircle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkha\OneDrive\Desktop\csharp\Studios\AreaOfCircle\AreaOfCircle\obj\Debug\net5.0\AreaOfCircle.AssemblyInfoInputs.cache
+C:\Users\elkha\OneDrive\Desktop\csharp\Studios\AreaOfCircle\AreaOfCircle\obj\Debug\net5.0\AreaOfCircle.AssemblyInfo.cs
+C:\Users\elkha\OneDrive\Desktop\csharp\Studios\AreaOfCircle\AreaOfCircle\obj\Debug\net5.0\AreaOfCircle.csproj.CoreCompileInputs.cache
+C:\Users\elkha\OneDrive\Desktop\csharp\Studios\AreaOfCircle\AreaOfCircle\obj\Debug\net5.0\AreaOfCircle.dll
+C:\Users\elkha\OneDrive\Desktop\csharp\Studios\AreaOfCircle\AreaOfCircle\obj\Debug\net5.0\ref\AreaOfCircle.dll
+C:\Users\elkha\OneDrive\Desktop\csharp\Studios\AreaOfCircle\AreaOfCircle\obj\Debug\net5.0\AreaOfCircle.pdb
+C:\Users\elkha\OneDrive\Desktop\csharp\Studios\AreaOfCircle\AreaOfCircle\obj\Debug\net5.0\AreaOfCircle.genruntimeconfig.cache
