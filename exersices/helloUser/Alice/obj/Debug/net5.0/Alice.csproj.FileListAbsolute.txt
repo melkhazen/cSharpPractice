@@ -1,0 +1,16 @@
+C:\Users\elkha\OneDrive\Desktop\csharp\exersices\helloUser\Alice\bin\Debug\net5.0\Alice.exe
+C:\Users\elkha\OneDrive\Desktop\csharp\exersices\helloUser\Alice\bin\Debug\net5.0\Alice.deps.json
+C:\Users\elkha\OneDrive\Desktop\csharp\exersices\helloUser\Alice\bin\Debug\net5.0\Alice.runtimeconfig.json
+C:\Users\elkha\OneDrive\Desktop\csharp\exersices\helloUser\Alice\bin\Debug\net5.0\Alice.runtimeconfig.dev.json
+C:\Users\elkha\OneDrive\Desktop\csharp\exersices\helloUser\Alice\bin\Debug\net5.0\Alice.dll
+C:\Users\elkha\OneDrive\Desktop\csharp\exersices\helloUser\Alice\bin\Debug\net5.0\ref\Alice.dll
+C:\Users\elkha\OneDrive\Desktop\csharp\exersices\helloUser\Alice\bin\Debug\net5.0\Alice.pdb
+C:\Users\elkha\OneDrive\Desktop\csharp\exersices\helloUser\Alice\obj\Debug\net5.0\Alice.csproj.AssemblyReference.cache
+C:\Users\elkha\OneDrive\Desktop\csharp\exersices\helloUser\Alice\obj\Debug\net5.0\Alice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkha\OneDrive\Desktop\csharp\exersices\helloUser\Alice\obj\Debug\net5.0\Alice.AssemblyInfoInputs.cache
+C:\Users\elkha\OneDrive\Desktop\csharp\exersices\helloUser\Alice\obj\Debug\net5.0\Alice.AssemblyInfo.cs
+C:\Users\elkha\OneDrive\Desktop\csharp\exersices\helloUser\Alice\obj\Debug\net5.0\Alice.csproj.CoreCompileInputs.cache
+C:\Users\elkha\OneDrive\Desktop\csharp\exersices\helloUser\Alice\obj\Debug\net5.0\Alice.dll
+C:\Users\elkha\OneDrive\Desktop\csharp\exersices\helloUser\Alice\obj\Debug\net5.0\ref\Alice.dll
+C:\Users\elkha\OneDrive\Desktop\csharp\exersices\helloUser\Alice\obj\Debug\net5.0\Alice.pdb
+C:\Users\elkha\OneDrive\Desktop\csharp\exersices\helloUser\Alice\obj\Debug\net5.0\Alice.genruntimeconfig.cache

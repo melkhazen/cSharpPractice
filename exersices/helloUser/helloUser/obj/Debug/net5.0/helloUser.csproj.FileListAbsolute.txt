@@ -1,0 +1,16 @@
+C:\Users\elkha\OneDrive\Desktop\csharp\exersices\helloUser\helloUser\obj\Debug\net5.0\helloUser.csproj.AssemblyReference.cache
+C:\Users\elkha\OneDrive\Desktop\csharp\exersices\helloUser\helloUser\obj\Debug\net5.0\helloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkha\OneDrive\Desktop\csharp\exersices\helloUser\helloUser\obj\Debug\net5.0\helloUser.AssemblyInfoInputs.cache
+C:\Users\elkha\OneDrive\Desktop\csharp\exersices\helloUser\helloUser\obj\Debug\net5.0\helloUser.AssemblyInfo.cs
+C:\Users\elkha\OneDrive\Desktop\csharp\exersices\helloUser\helloUser\obj\Debug\net5.0\helloUser.csproj.CoreCompileInputs.cache
+C:\Users\elkha\OneDrive\Desktop\csharp\exersices\helloUser\helloUser\bin\Debug\net5.0\helloUser.exe
+C:\Users\elkha\OneDrive\Desktop\csharp\exersices\helloUser\helloUser\bin\Debug\net5.0\helloUser.deps.json
+C:\Users\elkha\OneDrive\Desktop\csharp\exersices\helloUser\helloUser\bin\Debug\net5.0\helloUser.runtimeconfig.json
+C:\Users\elkha\OneDrive\Desktop\csharp\exersices\helloUser\helloUser\bin\Debug\net5.0\helloUser.runtimeconfig.dev.json
+C:\Users\elkha\OneDrive\Desktop\csharp\exersices\helloUser\helloUser\bin\Debug\net5.0\helloUser.dll
+C:\Users\elkha\OneDrive\Desktop\csharp\exersices\helloUser\helloUser\bin\Debug\net5.0\ref\helloUser.dll
+C:\Users\elkha\OneDrive\Desktop\csharp\exersices\helloUser\helloUser\bin\Debug\net5.0\helloUser.pdb
+C:\Users\elkha\OneDrive\Desktop\csharp\exersices\helloUser\helloUser\obj\Debug\net5.0\helloUser.dll
+C:\Users\elkha\OneDrive\Desktop\csharp\exersices\helloUser\helloUser\obj\Debug\net5.0\ref\helloUser.dll
+C:\Users\elkha\OneDrive\Desktop\csharp\exersices\helloUser\helloUser\obj\Debug\net5.0\helloUser.pdb
+C:\Users\elkha\OneDrive\Desktop\csharp\exersices\helloUser\helloUser\obj\Debug\net5.0\helloUser.genruntimeconfig.cache

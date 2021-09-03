@@ -1,0 +1,16 @@
+C:\Users\elkha\OneDrive\Desktop\csharp\chapter1\HelloWorld\HelloWorld\HelloMohamed\bin\Debug\net5.0\HelloMohamed.exe
+C:\Users\elkha\OneDrive\Desktop\csharp\chapter1\HelloWorld\HelloWorld\HelloMohamed\bin\Debug\net5.0\HelloMohamed.deps.json
+C:\Users\elkha\OneDrive\Desktop\csharp\chapter1\HelloWorld\HelloWorld\HelloMohamed\bin\Debug\net5.0\HelloMohamed.runtimeconfig.json
+C:\Users\elkha\OneDrive\Desktop\csharp\chapter1\HelloWorld\HelloWorld\HelloMohamed\bin\Debug\net5.0\HelloMohamed.runtimeconfig.dev.json
+C:\Users\elkha\OneDrive\Desktop\csharp\chapter1\HelloWorld\HelloWorld\HelloMohamed\bin\Debug\net5.0\HelloMohamed.dll
+C:\Users\elkha\OneDrive\Desktop\csharp\chapter1\HelloWorld\HelloWorld\HelloMohamed\bin\Debug\net5.0\ref\HelloMohamed.dll
+C:\Users\elkha\OneDrive\Desktop\csharp\chapter1\HelloWorld\HelloWorld\HelloMohamed\bin\Debug\net5.0\HelloMohamed.pdb
+C:\Users\elkha\OneDrive\Desktop\csharp\chapter1\HelloWorld\HelloWorld\HelloMohamed\obj\Debug\net5.0\HelloMohamed.csproj.AssemblyReference.cache
+C:\Users\elkha\OneDrive\Desktop\csharp\chapter1\HelloWorld\HelloWorld\HelloMohamed\obj\Debug\net5.0\HelloMohamed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkha\OneDrive\Desktop\csharp\chapter1\HelloWorld\HelloWorld\HelloMohamed\obj\Debug\net5.0\HelloMohamed.AssemblyInfoInputs.cache
+C:\Users\elkha\OneDrive\Desktop\csharp\chapter1\HelloWorld\HelloWorld\HelloMohamed\obj\Debug\net5.0\HelloMohamed.AssemblyInfo.cs
+C:\Users\elkha\OneDrive\Desktop\csharp\chapter1\HelloWorld\HelloWorld\HelloMohamed\obj\Debug\net5.0\HelloMohamed.csproj.CoreCompileInputs.cache
+C:\Users\elkha\OneDrive\Desktop\csharp\chapter1\HelloWorld\HelloWorld\HelloMohamed\obj\Debug\net5.0\HelloMohamed.dll
+C:\Users\elkha\OneDrive\Desktop\csharp\chapter1\HelloWorld\HelloWorld\HelloMohamed\obj\Debug\net5.0\ref\HelloMohamed.dll
+C:\Users\elkha\OneDrive\Desktop\csharp\chapter1\HelloWorld\HelloWorld\HelloMohamed\obj\Debug\net5.0\HelloMohamed.pdb
+C:\Users\elkha\OneDrive\Desktop\csharp\chapter1\HelloWorld\HelloWorld\HelloMohamed\obj\Debug\net5.0\HelloMohamed.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\elkha\OneDrive\Desktop\csharp\exersices\helloUser\RegtangleArea\obj\Debug\net5.0\RegtangleArea.csproj.AssemblyReference.cache
+C:\Users\elkha\OneDrive\Desktop\csharp\exersices\helloUser\RegtangleArea\obj\Debug\net5.0\RegtangleArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkha\OneDrive\Desktop\csharp\exersices\helloUser\RegtangleArea\obj\Debug\net5.0\RegtangleArea.AssemblyInfoInputs.cache
+C:\Users\elkha\OneDrive\Desktop\csharp\exersices\helloUser\RegtangleArea\obj\Debug\net5.0\RegtangleArea.AssemblyInfo.cs
+C:\Users\elkha\OneDrive\Desktop\csharp\exersices\helloUser\RegtangleArea\obj\Debug\net5.0\RegtangleArea.csproj.CoreCompileInputs.cache
+C:\Users\elkha\OneDrive\Desktop\csharp\exersices\helloUser\RegtangleArea\bin\Debug\net5.0\RegtangleArea.exe
+C:\Users\elkha\OneDrive\Desktop\csharp\exersices\helloUser\RegtangleArea\bin\Debug\net5.0\RegtangleArea.deps.json
+C:\Users\elkha\OneDrive\Desktop\csharp\exersices\helloUser\RegtangleArea\bin\Debug\net5.0\RegtangleArea.runtimeconfig.json
+C:\Users\elkha\OneDrive\Desktop\csharp\exersices\helloUser\RegtangleArea\bin\Debug\net5.0\RegtangleArea.runtimeconfig.dev.json
+C:\Users\elkha\OneDrive\Desktop\csharp\exersices\helloUser\RegtangleArea\bin\Debug\net5.0\RegtangleArea.dll
+C:\Users\elkha\OneDrive\Desktop\csharp\exersices\helloUser\RegtangleArea\bin\Debug\net5.0\ref\RegtangleArea.dll
+C:\Users\elkha\OneDrive\Desktop\csharp\exersices\helloUser\RegtangleArea\bin\Debug\net5.0\RegtangleArea.pdb
+C:\Users\elkha\OneDrive\Desktop\csharp\exersices\helloUser\RegtangleArea\obj\Debug\net5.0\RegtangleArea.dll
+C:\Users\elkha\OneDrive\Desktop\csharp\exersices\helloUser\RegtangleArea\obj\Debug\net5.0\ref\RegtangleArea.dll
+C:\Users\elkha\OneDrive\Desktop\csharp\exersices\helloUser\RegtangleArea\obj\Debug\net5.0\RegtangleArea.pdb
+C:\Users\elkha\OneDrive\Desktop\csharp\exersices\helloUser\RegtangleArea\obj\Debug\net5.0\RegtangleArea.genruntimeconfig.cache

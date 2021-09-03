@@ -1,0 +1,16 @@
+C:\Users\elkha\OneDrive\Desktop\csharp\chapter1\HelloWorld\HelloWorld\HelloWorld\bin\Debug\net5.0\HelloWorld.exe
+C:\Users\elkha\OneDrive\Desktop\csharp\chapter1\HelloWorld\HelloWorld\HelloWorld\bin\Debug\net5.0\HelloWorld.deps.json
+C:\Users\elkha\OneDrive\Desktop\csharp\chapter1\HelloWorld\HelloWorld\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.json
+C:\Users\elkha\OneDrive\Desktop\csharp\chapter1\HelloWorld\HelloWorld\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.dev.json
+C:\Users\elkha\OneDrive\Desktop\csharp\chapter1\HelloWorld\HelloWorld\HelloWorld\bin\Debug\net5.0\HelloWorld.dll
+C:\Users\elkha\OneDrive\Desktop\csharp\chapter1\HelloWorld\HelloWorld\HelloWorld\bin\Debug\net5.0\ref\HelloWorld.dll
+C:\Users\elkha\OneDrive\Desktop\csharp\chapter1\HelloWorld\HelloWorld\HelloWorld\bin\Debug\net5.0\HelloWorld.pdb
+C:\Users\elkha\OneDrive\Desktop\csharp\chapter1\HelloWorld\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\elkha\OneDrive\Desktop\csharp\chapter1\HelloWorld\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkha\OneDrive\Desktop\csharp\chapter1\HelloWorld\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\elkha\OneDrive\Desktop\csharp\chapter1\HelloWorld\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfo.cs
+C:\Users\elkha\OneDrive\Desktop\csharp\chapter1\HelloWorld\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\elkha\OneDrive\Desktop\csharp\chapter1\HelloWorld\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.dll
+C:\Users\elkha\OneDrive\Desktop\csharp\chapter1\HelloWorld\HelloWorld\HelloWorld\obj\Debug\net5.0\ref\HelloWorld.dll
+C:\Users\elkha\OneDrive\Desktop\csharp\chapter1\HelloWorld\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.pdb
+C:\Users\elkha\OneDrive\Desktop\csharp\chapter1\HelloWorld\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.genruntimeconfig.cache
