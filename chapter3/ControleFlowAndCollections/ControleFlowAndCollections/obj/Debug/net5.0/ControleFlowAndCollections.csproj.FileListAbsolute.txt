@@ -1,0 +1,16 @@
+C:\Users\elkha\OneDrive\Desktop\csharp\chapter3\ControleFlowAndCollections\ControleFlowAndCollections\obj\Debug\net5.0\ControleFlowAndCollections.csproj.AssemblyReference.cache
+C:\Users\elkha\OneDrive\Desktop\csharp\chapter3\ControleFlowAndCollections\ControleFlowAndCollections\obj\Debug\net5.0\ControleFlowAndCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkha\OneDrive\Desktop\csharp\chapter3\ControleFlowAndCollections\ControleFlowAndCollections\obj\Debug\net5.0\ControleFlowAndCollections.AssemblyInfoInputs.cache
+C:\Users\elkha\OneDrive\Desktop\csharp\chapter3\ControleFlowAndCollections\ControleFlowAndCollections\obj\Debug\net5.0\ControleFlowAndCollections.AssemblyInfo.cs
+C:\Users\elkha\OneDrive\Desktop\csharp\chapter3\ControleFlowAndCollections\ControleFlowAndCollections\obj\Debug\net5.0\ControleFlowAndCollections.csproj.CoreCompileInputs.cache
+C:\Users\elkha\OneDrive\Desktop\csharp\chapter3\ControleFlowAndCollections\ControleFlowAndCollections\bin\Debug\net5.0\ControleFlowAndCollections.exe
+C:\Users\elkha\OneDrive\Desktop\csharp\chapter3\ControleFlowAndCollections\ControleFlowAndCollections\bin\Debug\net5.0\ControleFlowAndCollections.deps.json
+C:\Users\elkha\OneDrive\Desktop\csharp\chapter3\ControleFlowAndCollections\ControleFlowAndCollections\bin\Debug\net5.0\ControleFlowAndCollections.runtimeconfig.json
+C:\Users\elkha\OneDrive\Desktop\csharp\chapter3\ControleFlowAndCollections\ControleFlowAndCollections\bin\Debug\net5.0\ControleFlowAndCollections.runtimeconfig.dev.json
+C:\Users\elkha\OneDrive\Desktop\csharp\chapter3\ControleFlowAndCollections\ControleFlowAndCollections\bin\Debug\net5.0\ControleFlowAndCollections.dll
+C:\Users\elkha\OneDrive\Desktop\csharp\chapter3\ControleFlowAndCollections\ControleFlowAndCollections\bin\Debug\net5.0\ref\ControleFlowAndCollections.dll
+C:\Users\elkha\OneDrive\Desktop\csharp\chapter3\ControleFlowAndCollections\ControleFlowAndCollections\bin\Debug\net5.0\ControleFlowAndCollections.pdb
+C:\Users\elkha\OneDrive\Desktop\csharp\chapter3\ControleFlowAndCollections\ControleFlowAndCollections\obj\Debug\net5.0\ControleFlowAndCollections.dll
+C:\Users\elkha\OneDrive\Desktop\csharp\chapter3\ControleFlowAndCollections\ControleFlowAndCollections\obj\Debug\net5.0\ref\ControleFlowAndCollections.dll
+C:\Users\elkha\OneDrive\Desktop\csharp\chapter3\ControleFlowAndCollections\ControleFlowAndCollections\obj\Debug\net5.0\ControleFlowAndCollections.pdb
+C:\Users\elkha\OneDrive\Desktop\csharp\chapter3\ControleFlowAndCollections\ControleFlowAndCollections\obj\Debug\net5.0\ControleFlowAndCollections.genruntimeconfig.cache

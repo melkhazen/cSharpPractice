@@ -22,6 +22,8 @@ namespace AreaOfCircle
             Double areaOfCircle =  pi * int.Parse(input) * int.Parse(input);
             String output = "The area of the circle deppanding on the radious is: " + areaOfCircle;
             Console.WriteLine(output);
+            Console.WriteLine("The circumference of the circle is: " + 2 * pi * int.Parse(input));
+            Console.WriteLine("The diamiter of the circle is: " + 2 * int.Parse(input));
 
             return output;
 
