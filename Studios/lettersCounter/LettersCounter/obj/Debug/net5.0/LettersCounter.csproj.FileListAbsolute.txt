@@ -1,0 +1,16 @@
+C:\Users\elkha\OneDrive\Desktop\csharp\Studios\lettersCounter\LettersCounter\bin\Debug\net5.0\LettersCounter.exe
+C:\Users\elkha\OneDrive\Desktop\csharp\Studios\lettersCounter\LettersCounter\bin\Debug\net5.0\LettersCounter.deps.json
+C:\Users\elkha\OneDrive\Desktop\csharp\Studios\lettersCounter\LettersCounter\bin\Debug\net5.0\LettersCounter.runtimeconfig.json
+C:\Users\elkha\OneDrive\Desktop\csharp\Studios\lettersCounter\LettersCounter\bin\Debug\net5.0\LettersCounter.runtimeconfig.dev.json
+C:\Users\elkha\OneDrive\Desktop\csharp\Studios\lettersCounter\LettersCounter\bin\Debug\net5.0\LettersCounter.dll
+C:\Users\elkha\OneDrive\Desktop\csharp\Studios\lettersCounter\LettersCounter\bin\Debug\net5.0\ref\LettersCounter.dll
+C:\Users\elkha\OneDrive\Desktop\csharp\Studios\lettersCounter\LettersCounter\bin\Debug\net5.0\LettersCounter.pdb
+C:\Users\elkha\OneDrive\Desktop\csharp\Studios\lettersCounter\LettersCounter\obj\Debug\net5.0\LettersCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkha\OneDrive\Desktop\csharp\Studios\lettersCounter\LettersCounter\obj\Debug\net5.0\LettersCounter.AssemblyInfoInputs.cache
+C:\Users\elkha\OneDrive\Desktop\csharp\Studios\lettersCounter\LettersCounter\obj\Debug\net5.0\LettersCounter.AssemblyInfo.cs
+C:\Users\elkha\OneDrive\Desktop\csharp\Studios\lettersCounter\LettersCounter\obj\Debug\net5.0\LettersCounter.csproj.CoreCompileInputs.cache
+C:\Users\elkha\OneDrive\Desktop\csharp\Studios\lettersCounter\LettersCounter\obj\Debug\net5.0\LettersCounter.dll
+C:\Users\elkha\OneDrive\Desktop\csharp\Studios\lettersCounter\LettersCounter\obj\Debug\net5.0\ref\LettersCounter.dll
+C:\Users\elkha\OneDrive\Desktop\csharp\Studios\lettersCounter\LettersCounter\obj\Debug\net5.0\LettersCounter.pdb
+C:\Users\elkha\OneDrive\Desktop\csharp\Studios\lettersCounter\LettersCounter\obj\Debug\net5.0\LettersCounter.genruntimeconfig.cache
+C:\Users\elkha\OneDrive\Desktop\csharp\Studios\lettersCounter\LettersCounter\obj\Debug\net5.0\LettersCounter.csproj.AssemblyReference.cache

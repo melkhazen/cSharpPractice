@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleFlowAndCollections"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayPractice", "ArrayPractice\ArrayPractice.csproj", "{49E5198A-E66A-4CD4-9BB7-3BBBC87D376D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LettersCounter", "..\..\Studios\lettersCounter\LettersCounter\LettersCounter.csproj", "{3827D4AD-8F55-40D4-B2D1-0FF7F9D2C605}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{49E5198A-E66A-4CD4-9BB7-3BBBC87D376D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49E5198A-E66A-4CD4-9BB7-3BBBC87D376D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49E5198A-E66A-4CD4-9BB7-3BBBC87D376D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3827D4AD-8F55-40D4-B2D1-0FF7F9D2C605}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3827D4AD-8F55-40D4-B2D1-0FF7F9D2C605}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3827D4AD-8F55-40D4-B2D1-0FF7F9D2C605}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3827D4AD-8F55-40D4-B2D1-0FF7F9D2C605}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
