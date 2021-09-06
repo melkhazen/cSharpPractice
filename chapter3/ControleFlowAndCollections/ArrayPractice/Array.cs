@@ -29,5 +29,65 @@ namespace ArrayPractice
             }
 
         }
+
+        public static void stringToArray()
+        {
+
+            String stringGiven = "I would not, could not, in a box. I would not, could not with a fox. I will not eat them in a house. I will not eat them with a mouse.";
+            String[] arr = stringGiven.Split(" ");
+
+            Console.WriteLine(string.Join(",", arr));
+
+
+        }
+
+        public static void evenSum(List<int> arrayList)
+        {
+
+            int sumevenSumInArray = 0;
+            for (int i = 0; i < arrayList.Count; i++)
+            {
+                if (arrayList[i] % 2 == 0)
+                {
+                    sumevenSumInArray += arrayList[i];
+                }
+            }
+            Console.WriteLine("The even numbers sum in this array is: " + sumevenSumInArray);
+        }
+
+        public static void fiveLettersWords()
+        {
+            List<String> listOfWords = new List<String>();
+            List<String> fiveLettersWords = new List<String>();
+
+            listOfWords.Add("samir");
+            listOfWords.Add("samira");
+            listOfWords.Add("bilal");
+            listOfWords.Add("Hamza");
+            listOfWords.Add("Mohamed");
+
+            String numberOfLettersChosenByUser;
+
+            Console.WriteLine("choose a number of letters to pick: ");
+            numberOfLettersChosenByUser = Console.ReadLine();
+
+            foreach(String word in listOfWords)
+            {
+                if (word.Length == int.Parse(numberOfLettersChosenByUser))
+                {
+                    fiveLettersWords.Add(word);
+                }
+
+            }
+            if (fiveLettersWords.Count == 0)
+            {
+                Console.WriteLine("there is no words with this lingth!");
+            }
+
+            Console.WriteLine(string.Join(",", fiveLettersWords));
+
+
+        }
+
     }
 }
