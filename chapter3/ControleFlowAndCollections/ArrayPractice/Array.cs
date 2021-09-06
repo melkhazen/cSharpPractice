@@ -71,7 +71,7 @@ namespace ArrayPractice
             Console.WriteLine("choose a number of letters to pick: ");
             numberOfLettersChosenByUser = Console.ReadLine();
 
-            foreach(String word in listOfWords)
+            foreach (String word in listOfWords)
             {
                 if (word.Length == int.Parse(numberOfLettersChosenByUser))
                 {
@@ -89,5 +89,30 @@ namespace ArrayPractice
 
         }
 
+        public static void dictionarryPart()
+        {
+
+            Dictionary<int, String> listOfStudents = new Dictionary<int, string>();
+
+            String studentID;
+            do
+            {
+                Console.WriteLine("Enter a student ID: ");
+                String input = Console.ReadLine();
+                studentID = input;
+
+                if (!Equals(studentID, ""))
+                {
+                    Console.WriteLine("Enter a studentID Name: ");
+                    input = Console.ReadLine();
+                    listOfStudents.Add(int.Parse(studentID), input);
+                }
+            }
+
+            while (!Equals(studentID, ""));
+
+            foreach (KeyValuePair<int, string> kvp in listOfStudents)
+                Console.WriteLine("Student ID: {0}, Student Name: {1}", kvp.Key, kvp.Value);
+        }
     }
 }

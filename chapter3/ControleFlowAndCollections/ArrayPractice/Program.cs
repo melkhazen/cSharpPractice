@@ -18,7 +18,7 @@ namespace ArrayPractice
             exampleArray.Add(1);
             exampleArray.Add(9);
 
-            Console.WriteLine("Choose a practice: \n 1) for array. \n 2) for array fun. \n 3) for list even sum. \n 4) for five letters words");
+            Console.WriteLine("Choose a practice: \n 1) for array. \n 2) for array fun. \n 3) for list even sum. \n 4) for five letters words. \n 5) for dictionnery.");
             String input = Console.ReadLine();
 
             if (input == "1")
@@ -36,6 +36,9 @@ namespace ArrayPractice
             else if (input == "4")
             {
                 Array.fiveLettersWords();
+            }else if (input == "5")
+            {
+                Array.dictionarryPart();
             }
 
 
