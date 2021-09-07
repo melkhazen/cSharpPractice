@@ -8,9 +8,11 @@ namespace ResterauntManue
 {
     class Menu
     {
+        public static List<MenuItem> listOfItems = new List<MenuItem>();
 
-        public static void createANewItem()
+        public void createANewItem()
         {
+
 
             MenuItem newItem = new MenuItem();
 
@@ -31,6 +33,9 @@ namespace ResterauntManue
             newItem.Category = input;
 
             Console.WriteLine("The new item is: " + newItem.Name + "\n Price: " + newItem.Price + "$ \n Description: " + newItem.Description + " \n Category: " + newItem.Category + " \n it was updated on: " + newItem.timeString);
+
+            listOfItems.Add(newItem);
+        
         }
     }
 }

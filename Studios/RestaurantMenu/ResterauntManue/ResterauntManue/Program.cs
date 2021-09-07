@@ -6,9 +6,7 @@ namespace ResterauntManue
     {
         static void Main(string[] args)
         {
-
-            Menu.createANewItem();
-
+            CreatMenu.creatIt();
         }
     }
 }
