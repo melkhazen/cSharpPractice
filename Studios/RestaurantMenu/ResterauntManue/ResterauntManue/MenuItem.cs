@@ -16,6 +16,15 @@ namespace ResterauntManue
 
         public String timeString = DateTime.Now.ToString("hh:mm:ss  MM/dd/yy");
 
+        public override bool Equals(object obj)
+        {
+            return obj is MenuItem item &&
+                   Name == item.Name;
+        }
 
+        public override int GetHashCode()
+        {
+            return HashCode.Combine(Name);
+        }
     }
 }
