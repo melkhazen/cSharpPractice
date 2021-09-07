@@ -1,0 +1,16 @@
+C:\Users\elkha\OneDrive\Desktop\csharp\Studios\RestaurantMenu\ResterauntManue\ResterauntManue\bin\Debug\net5.0\ResterauntManue.exe
+C:\Users\elkha\OneDrive\Desktop\csharp\Studios\RestaurantMenu\ResterauntManue\ResterauntManue\bin\Debug\net5.0\ResterauntManue.deps.json
+C:\Users\elkha\OneDrive\Desktop\csharp\Studios\RestaurantMenu\ResterauntManue\ResterauntManue\bin\Debug\net5.0\ResterauntManue.runtimeconfig.json
+C:\Users\elkha\OneDrive\Desktop\csharp\Studios\RestaurantMenu\ResterauntManue\ResterauntManue\bin\Debug\net5.0\ResterauntManue.runtimeconfig.dev.json
+C:\Users\elkha\OneDrive\Desktop\csharp\Studios\RestaurantMenu\ResterauntManue\ResterauntManue\bin\Debug\net5.0\ResterauntManue.dll
+C:\Users\elkha\OneDrive\Desktop\csharp\Studios\RestaurantMenu\ResterauntManue\ResterauntManue\bin\Debug\net5.0\ref\ResterauntManue.dll
+C:\Users\elkha\OneDrive\Desktop\csharp\Studios\RestaurantMenu\ResterauntManue\ResterauntManue\bin\Debug\net5.0\ResterauntManue.pdb
+C:\Users\elkha\OneDrive\Desktop\csharp\Studios\RestaurantMenu\ResterauntManue\ResterauntManue\obj\Debug\net5.0\ResterauntManue.csproj.AssemblyReference.cache
+C:\Users\elkha\OneDrive\Desktop\csharp\Studios\RestaurantMenu\ResterauntManue\ResterauntManue\obj\Debug\net5.0\ResterauntManue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkha\OneDrive\Desktop\csharp\Studios\RestaurantMenu\ResterauntManue\ResterauntManue\obj\Debug\net5.0\ResterauntManue.AssemblyInfoInputs.cache
+C:\Users\elkha\OneDrive\Desktop\csharp\Studios\RestaurantMenu\ResterauntManue\ResterauntManue\obj\Debug\net5.0\ResterauntManue.AssemblyInfo.cs
+C:\Users\elkha\OneDrive\Desktop\csharp\Studios\RestaurantMenu\ResterauntManue\ResterauntManue\obj\Debug\net5.0\ResterauntManue.csproj.CoreCompileInputs.cache
+C:\Users\elkha\OneDrive\Desktop\csharp\Studios\RestaurantMenu\ResterauntManue\ResterauntManue\obj\Debug\net5.0\ResterauntManue.dll
+C:\Users\elkha\OneDrive\Desktop\csharp\Studios\RestaurantMenu\ResterauntManue\ResterauntManue\obj\Debug\net5.0\ref\ResterauntManue.dll
+C:\Users\elkha\OneDrive\Desktop\csharp\Studios\RestaurantMenu\ResterauntManue\ResterauntManue\obj\Debug\net5.0\ResterauntManue.pdb
+C:\Users\elkha\OneDrive\Desktop\csharp\Studios\RestaurantMenu\ResterauntManue\ResterauntManue\obj\Debug\net5.0\ResterauntManue.genruntimeconfig.cache
